@@ -1,0 +1,17 @@
+.main, .layout {
+    height: 100%;
+}
+
+.ant-layout-sider .ant-menu-item {
+    text-align: center;
+}
+
+.logo {
+    width: 200px;
+    height: 31px;
+    background: rgba(255,255,255,.2);
+    margin: 16px 28px 16px 0;
+    float: left;
+}
+
+
