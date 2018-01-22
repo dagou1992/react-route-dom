@@ -1,2 +1,2 @@
-qafun-manager
+npm install
 
